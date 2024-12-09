@@ -1,0 +1,2 @@
+# dotfiles
+.zshrc, .bashrc etc.
